@@ -1,0 +1,5 @@
+{"template_query": "1. Generate a [chart_type] with matplotlib to illustrate the [statistical_relationship] in [data_description] from the [data_source], ensuring to incorporate [customization_options]."}
+{"template_query": "2. Create a composite [chart_type] on matplotlib to display the correlation of [data_description] between various [categories] using data from [data_source] and add [customization_options] to the chart."}
+{"template_query": "3. Display a [chart_type] on matplotlib to track the [trend/progress/development] of [data_description] over [time_interval] using [data_source] data. Make sure to include [customization_options] in the chart."}
+{"template_query": "4. Using matplotlib, develop a [chart_type] to analyze the [data_description] distribution across different [geographical regions] using information from [data_source]. Implement [customization_options] for a better visual experience."}
+{"template_query": "5. Use matplotlib to create a [chart_type] demonstrating the comparison of [data_description] between various [sub-groups] from the data in [data_source] and apply [customization_options] on the chart."}
