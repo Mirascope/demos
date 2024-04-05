@@ -1,4 +1,5 @@
 """Extract JSON from a webpage using natural language"""
+
 from typing import Literal, Type
 from urllib.request import Request, urlopen
 
@@ -60,7 +61,7 @@ class WebpageURLExtractor(AnthropicExtractor[BaseModel]):
     url: str
     query: str
 
-    call_params = AnthropicCallParams(max_tokens=2000)
+    call_params = AnthropicCallParams(max_tokens=4000)
 
     @computed_field
     @property
