@@ -1,0 +1,10 @@
+{"chart_type": ["line", "bar", "scatter", "pie", "histogram"]}
+{"statistical_relationship": ["scatter plot", "line chart", "bar chart", "heatmap", "histogram"]}
+{"data_description": ["dataframe", "array", "list of tuples", "dictionary", "list of lists"]}
+{"data_source": ["'DataFrame'", "'array'", "'list'", "'Series'", "'scalar'"]}
+{"customization_options": ["color", "linewidth", "linestyle", "marker", "label"]}
+{"categories": ["bar chart", "line graph", "scatter plot", "histogram", "pie chart"]}
+{"trend/progress/development": ["increasing trend", "decreasing trend", "steady progress", "fluctuating development", "significant growth"]}
+{"time_interval": ["'10T'", "'30T'", "'1H'", "'1D'", "'1W'"]}
+{"geographical regions": ["North America", "Europe", "Asia", "Africa", "South America"]}
+{"sub-groups": ["line plot", "bar chart", "scatter plot", "histogram", "box plot"]}
